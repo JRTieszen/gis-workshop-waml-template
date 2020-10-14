@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My favorite map
-nav_order: 11
+title: Favorite Map
+nav_order: 2.5
 ---
 ![My favorite map](img/fav-map.png)
 # I'm Santa Claus!
